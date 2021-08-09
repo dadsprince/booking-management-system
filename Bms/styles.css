@@ -1,0 +1,25 @@
+﻿
+			body {
+			background-image:url("background.jpg");
+                        background-size:cover;}
+						
+			.btn-group .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: top;
+  
+}
+.btn-group .button .contact{
+	text-decoration:none;
+}
+
+.btn-group .button:hover {
+  background-color: #3e8e41;
+}
